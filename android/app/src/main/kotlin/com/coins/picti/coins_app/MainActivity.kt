@@ -1,0 +1,6 @@
+package com.coins.picti.coins_app
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
