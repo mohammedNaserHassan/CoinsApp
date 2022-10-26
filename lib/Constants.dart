@@ -20,3 +20,4 @@ const Color color33 = Color(0xff08E0AC);
 
 const Color color4 = Color(0xff0BA0BC);
 const Color color44 = Color(0xff478EDA);
+  String deviceId='';
